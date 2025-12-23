@@ -1,1 +1,0 @@
-SYSTEM_PROMPT = "you are an helpful ai"
